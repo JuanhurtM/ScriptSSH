@@ -4,8 +4,8 @@
 """
 Script para validación de credenciales SSH y Telnet usando Shodan API
 Desarrollado con fines exclusivamente educativos y académicos
-Autor: [Tu Nombre]
-Fecha: Abril 2024
+Autor: Juan Jose Hurtado Mejia
+Fecha: 07 de Abril 2024
 
 USO ÉTICO Y LEGAL:
 Esta herramienta es EXCLUSIVAMENTE para fines académicos y educativos.
